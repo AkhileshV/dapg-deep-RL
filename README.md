@@ -80,3 +80,5 @@ DAPG along with Proximal Policy Optimization induced stability in the training l
 Improved performance & faster convergence by 150%.
 
 ![DAPG_PPO_comparison](hand_dapg/dapg/examples/compare_dapg_ppo.png)
+
+For details on MuJoCo setup & experimentation, please refer to mj_envs/README.md
