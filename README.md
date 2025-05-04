@@ -29,9 +29,8 @@ $ python utils/visualize_policy.py --env_name relocate-v0 --policy policies/relo
 
 **NOTE:** If the visualization results in a GLFW error, this is because `mujoco-py` does not see some graphics drivers correctly. This can usually be fixed by explicitly loading the correct drivers before running the python script. See [this page](https://github.com/aravindr93/mjrl/tree/master/setup#known-issues) for details.
 
-## Bibliography
+## Citation
 
-If you use the code in this or associated repositories above, please cite the following paper.
 ```
 @INPROCEEDINGS{Rajeswaran-RSS-18,
     AUTHOR    = {Aravind Rajeswaran AND Vikash Kumar AND Abhishek Gupta AND
